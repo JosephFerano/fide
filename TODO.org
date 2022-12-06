@@ -1,0 +1,17 @@
+#-*- mode: org -*-
+#+AUTHOR: Joseph Ferano
+#+TITLE: Fide TODO List
+#+TODO: IDEA TODO INPROGRESS | DONE
+#+STARTUP: show2levels
+
+* Todos
+** TODO Render some basic text to the screen
+
+* Active
+** INPROGRESS Launch glium window
+
+* Completed
+** DONE Scaffold project
+
+* Ideas
+** IDEA Create a fun cursor
